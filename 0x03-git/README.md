@@ -1,1 +1,1 @@
-documentation for 0x03-git
+documentation for 0x03-git featuring new updates
